@@ -7,4 +7,5 @@ public:
 	~Player();
 	void Update() override;
 	void Draw() override;
+	int hImage;
 };
